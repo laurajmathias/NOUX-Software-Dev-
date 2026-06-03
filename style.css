@@ -56,16 +56,15 @@ body{
 
 .navbar a{
   text-decoration: none;
-  color: #0b6780;
+  color: #483a7cd2;
   font-weight: 600;
   transition: .3s;
 }
 
 .navbar a:hover{
-  color: #d94c57;
+  color: #483a7cd2;
 }
 
-/* BOTÕES */
 
 .btn-primary,
 .btn-outline{
